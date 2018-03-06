@@ -2,7 +2,7 @@
 
 In this repository is a UDP pinger and a UDP client that simulates a UDP datagram object request and retrieval between a server and client. The server is also programmed to drop a certain amount of requests to simulate a drop in request or failure in communication between the server and client.
 
-## How to use
+## Instructions for use
 
   1) Download the repository
   2) Run the `UDPPingerServer.py` using Python 2.7
